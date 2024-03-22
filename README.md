@@ -1,4 +1,4 @@
-# Hello, I'm dfsare 👨‍💻
+# Hello, I'm Danny 👨‍💻
 
 <div align="left"> 
   <a href="dannyfsare@gmail.com" target="_blank">
