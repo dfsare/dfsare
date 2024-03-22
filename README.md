@@ -11,6 +11,10 @@
 
 <br> 
 
+Hey there! I'm dfsare, a passionate Cybersecurity Analyst with a knack for securing digital landscapes. I thrive on exploring innovative solutions to safeguard against cyber threats.
+
+<br>
+
 <div align="left">
  
 🔭 I’m currently working as a **Cybersecurity Analyst** 💼
