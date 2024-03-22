@@ -1,5 +1,4 @@
 # Hello, I'm dfsare
-<h3 align="left">Cybersecurity Analyst</h3>
 
 
 <div align="left"> 
@@ -15,7 +14,7 @@
 
 <div align="left">
  
-🔭 I’m currently working on **Python Projects**
+🔭 I’m currently working as **Cybersecurity Analyst**
  
 🌱 I’m currently learning **Digital Business & AI**
 
