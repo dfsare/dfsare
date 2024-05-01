@@ -19,7 +19,7 @@ Hey there! I'm Danny Sare, a passionate Cybersecurity Analyst with a knack for s
  
 🔭 I’m currently working as a **Cybersecurity Analyst** 💼
 
-🌱 I’m currently diving into **Digital Business & AI** 🚀
+🌱 I’m currently diving into **Cloud Security & AI** 🚀
 
 💬 Ask me about anything related to **Cyber Security** 🛡️
 
