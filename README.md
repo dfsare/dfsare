@@ -97,7 +97,6 @@ Hey there! I'm Danny Sare, a passionate Cybersecurity Analyst with a knack for s
 </div>
 
 # 📊 Github Stats 📊
-![dfsare's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dfsare&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dfsare&show_icons=true&theme=radical)
+
 
 Feel free to connect and explore! 🚀
